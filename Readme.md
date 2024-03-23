@@ -71,6 +71,15 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ---
 
+## usenix-security
+
+### 2024
+
+Lost at c: A user study on the security implications of large language model code assistants
+
+
+---
+
 ## NDSS
 
 ### 2024
