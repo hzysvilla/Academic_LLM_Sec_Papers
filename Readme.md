@@ -27,13 +27,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 - [TIFS](#tifs)
 
 ### Also including:
-* [Survey](#Survey), [ACL](#miscellaneous).
+* [Survey](#Literature Review), [ACL](#miscellaneous).
 
 -----
 
 # Literature Review
-
-## survey
 
 ### 2024
 
