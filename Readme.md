@@ -53,6 +53,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 -----
 
+---
+
 ## S&P
 
 ### 2024
@@ -69,11 +71,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
-[Stealing the Decoding Algorithms of Language Models]().
+[Stealing the Decoding Algorithms of Language Models](https://arxiv.org/abs/2303.04729).
 
-[Large Language Models for Code: Security Hardening and Adversarial Testing]().
+[Large Language Models for Code: Security Hardening and Adversarial Testing](https://arxiv.org/pdf/2302.05319).
 
-[Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection]()
+[Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
 
 ---
 
@@ -81,7 +83,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
-[Lost at c: A user study on the security implications of large language model code assistants]()
+[Lost at c: A user study on the security implications of large language model code assistants](https://arxiv.org/abs/2208.09727).
 
 ---
 
@@ -89,21 +91,27 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
-[MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots]().
+[Analysis of the Effect of the Difference between Japanese and English Input on ChatGPT-Generated Secure Codes](https://www.ndss-symposium.org/wp-content/uploads/madweb2024-84-paper.pdf).
 
-[DeGPT: Optimizing Decompiler Output with LLM]().
+[MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots](https://www.ndss-symposium.org/ndss-paper/masterkey-automated-jailbreaking-of-large-language-model-chatbots/).
 
-[DEMASQ: Unmasking the ChatGPT Wordsmith]().
+[DeGPT: Optimizing Decompiler Output with LLM](https://www.ndss-symposium.org/wp-content/uploads/2024-401-paper.pdf).
+
+[DEMASQ: Unmasking the ChatGPT Wordsmith](https://arxiv.org/abs/2311.05019).
 
 [Large Language Model guided Protocol Fuzzing](https://abhikrc.com/pdf/NDSS24.pdf).
 
-[Smart contract] [SMARTINV: Multimodal Learning for Smart Contract Invariant Inference]().
+[Facilitating Threat Modeling by Leveraging Large Language Models](https://www.ndss-symposium.org/wp-content/uploads/aiscc2024-16-paper.pdf)
 
 ---
 
 ## ICSE
 
 ### 2024
+
+[LLMParser: An Exploratory Study on Using Large Language Models for Log Parsing](https://petertsehsun.github.io/papers/LLMParser.pdf).
+
+[Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study]().
 
 [Large Language Models are  Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT]().
 
@@ -113,11 +121,31 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [Large Language Models for Test-Free Fault Localization]().
 
+[Large language models are few-shot testers: Exploring llm-based general bug reproduction]().
+
 [Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning]().
 
 [Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries]().
 
-[GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis].
+[GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis]().
+
+[Automated Program Repair in the Era of Large Pre-trained Language Models]().
+
+[Prompting Is All You Need: Automated Android Bug Replay with Large Language Models]().
+
+---
+
+## ASE
+
+### 2024
+
+[Better Patching Using LLM Prompting, via Self-Consistency]().
+
+[Towards Autonomous Testing Agents via Conversational Large Language Models]().
+
+[Let's Chat to Find the APIs: Connecting Human, LLM and Knowledge Graph through AI Chain]().
+
+[Log Parsing: How Far Can ChatGPT Go?]().
 
 ---
 
@@ -135,7 +163,15 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
+[InferFix: End-to-End Program Repair with LLMs]().
+
 [Getting pwn'd by ai: Penetration testing with large language models]().
+
+[Llm-based code generation method for golang compiler testing]().
+
+[Assisting static analysis with large language models: A chatgpt experiment]().
+
+[Assess and Summarize: Improve Outage Understanding with Large Language Models]()
 
 ---
 
@@ -146,6 +182,16 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ## TIFS
 
 [(Security) Assertions by Large Language Models]().
+
+## TSE
+
+[Software Testing with Large Language Models: Survey, Landscape, and Vision]().
+
+[An Empirical Evaluation of Using Large Language Models for Automated Unit Test Generation]().
+
+## TOSEM
+
+[Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains]().
 
 ## Miscellaneous
 
