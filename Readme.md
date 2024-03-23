@@ -45,6 +45,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [Large language models for software engineering: A systematic literature review]().
 
+[Securing Large Language Models: Threats, Vulnerabilities and Responsible Practices]().
+
 -----
 
 # Conference
