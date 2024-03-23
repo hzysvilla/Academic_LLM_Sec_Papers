@@ -63,4 +63,14 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[Automic Log][UniLog: Automatic Logging via LLM and In-Context Learning]().
+
+[Bug Replay][Prompting Is All You Need: Automated Android Bug Replay with Large Language Models]().
+
+[Fault Localization] [Large Language Models for Test-Free Fault Localization]().
+
+[Comment Generate] [Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning]().
+
+[Deel learning] [Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries]().
+
 [Smart contract] [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis].
