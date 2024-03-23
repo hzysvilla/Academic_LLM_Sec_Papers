@@ -27,7 +27,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 - [TIFS](#tifs)
 
 ### Also including:
-* [Survey](#Literature Review), [ACL](#miscellaneous).
+* [Survey](#Literature-Review), [ACL](#miscellaneous).
 
 -----
 
