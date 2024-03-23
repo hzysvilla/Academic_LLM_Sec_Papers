@@ -41,11 +41,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [Large Language Models for Blockchain Security: A Systematic Literature Review](https://eprint.iacr.org/2024/477.pdf).
 
-[A survey on large language model (llm) security and privacy: The good, the bad, and the ugly]().
+[A survey on large language model (llm) security and privacy: The good, the bad, and the ugly](https://arxiv.org/pdf/2403.14280).
 
 [Large language models for software engineering: A systematic literature review]().
 
-[Securing Large Language Models: Threats, Vulnerabilities and Responsible Practices]().
+[Securing Large Language Models: Threats, Vulnerabilities and Responsible Practices](https://arxiv.org/pdf/2403.12503).
 
 -----
 
@@ -58,6 +58,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### 2024
 
 [SMARTINV: Multimodal Learning for Smart Contract Invariant Inference]().
+
+### 2023
+
+[Examining zero-shot vulnerability repair with large language models](https://arxiv.org/pdf/2112.02125)
 
 ---
 
@@ -123,7 +127,15 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models]().
 
-[How Effective Are Neural Networks for Fixing Security Vulnerabilities]()
+[How Effective Are Neural Networks for Fixing Security Vulnerabilities]().
+
+---
+
+## ESEC/FSE
+
+### 2023
+
+[Getting pwn'd by ai: Penetration testing with large language models]().
 
 ---
 
