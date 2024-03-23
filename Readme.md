@@ -73,6 +73,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[fuzz] [Large Language Models are  Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT]().
+
 [Automic Log][UniLog: Automatic Logging via LLM and In-Context Learning]().
 
 [Bug Replay][Prompting Is All You Need: Automated Android Bug Replay with Large Language Models]().
