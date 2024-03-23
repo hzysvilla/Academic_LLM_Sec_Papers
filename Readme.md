@@ -43,6 +43,16 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ---
 
+## CCS
+
+### 2023
+
+[Stealing the Decoding Algorithms of Language Models]().
+
+[Large Language Models for Code: Security Hardening and Adversarial Testing]().
+
+---
+
 ## NDSS
 
 ### 2024
