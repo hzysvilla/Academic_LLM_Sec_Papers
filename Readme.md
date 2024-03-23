@@ -35,7 +35,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 # Review
 
-## survery
+## survey
 
 ### 2024
 
