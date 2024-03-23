@@ -27,13 +27,13 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 - [TIFS](#tifs)
 
 ### Also including:
-* [Survey](#Survey), [CSFW](#miscellaneous), [CHI](#miscellaneous), [ICPC](#miscellaneous), [TPDS](#miscellaneous), [HPC](#miscellaneous), [POMACS](#miscellaneous), [AsiaCCS](#miscellaneous), [IJCAI](#miscellaneous), [SC](#miscellaneous), [SIGKDD](#miscellaneous), [JSAC](#miscellaneous), [DAC](#miscellaneous), [TOPLAS](#miscellaneous), [ISCA](#miscellaneous).
+* [Survey](#Survey), [ACL](#miscellaneous).
 
 ---
 
 -----
 
-# Review
+# Literature Review
 
 ## survey
 
@@ -43,7 +43,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [review] [A survey on large language model (llm) security and privacy: The good, the bad, and the ugly]().
 
-[review] []().
+[review] [Large language models for software engineering: A systematic literature review]().
 
 -----
 
@@ -73,10 +73,9 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## usenix-security
 
-### 2024
+### 2023
 
-Lost at c: A user study on the security implications of large language model code assistants
-
+[Lost at c: A user study on the security implications of large language model code assistants]()
 
 ---
 
@@ -131,4 +130,8 @@ Lost at c: A user study on the security implications of large language model cod
 ## TIFS
 
 [LLM] [(Security) Assertions by Large Language Models]().
+
+## Miscellaneous
+
+[ACL24] [Not the end of story: An evaluation of chatgpt-driven vulnerability description mappings]().
 
