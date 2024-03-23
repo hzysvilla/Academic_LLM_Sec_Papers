@@ -86,3 +86,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [Deel learning] [Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries]().
 
 [Smart contract] [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis].
+
+---
+
+## ISSTA
+
+### 2024
+
+[fuzz] [Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models]().
