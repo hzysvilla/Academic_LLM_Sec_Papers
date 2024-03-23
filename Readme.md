@@ -55,6 +55,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [SMARTINV: Multimodal Learning for Smart Contract Invariant Inference]().
 
+[LLMIF: Augmented Large Language Model for Fuzzing IoT Devices].
+
 ### 2023
 
 [Examining zero-shot vulnerability repair with large language models](https://arxiv.org/pdf/2112.02125)
@@ -186,6 +188,12 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ## TIFS
 
 [(Security) Assertions by Large Language Models]().
+
+## TDSC
+
+[PrivacyAsst: Safeguarding User Privacy in Tool-Using Large Language Model Agents]().
+
+[]
 
 ## TSE
 
