@@ -27,7 +27,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 - [TIFS](#tifs)
 
 ### Also including:
-* [survey](#survey),[CSFW](#miscellaneous), [CHI](#miscellaneous), [ICPC](#miscellaneous), [TPDS](#miscellaneous), [HPC](#miscellaneous), [POMACS](#miscellaneous), [AsiaCCS](#miscellaneous), [IJCAI](#miscellaneous), [SC](#miscellaneous), [SIGKDD](#miscellaneous), [JSAC](#miscellaneous), [DAC](#miscellaneous), [TOPLAS](#miscellaneous), [ISCA](#miscellaneous).
+* [Survey](#Survey), [CSFW](#miscellaneous), [CHI](#miscellaneous), [ICPC](#miscellaneous), [TPDS](#miscellaneous), [HPC](#miscellaneous), [POMACS](#miscellaneous), [AsiaCCS](#miscellaneous), [IJCAI](#miscellaneous), [SC](#miscellaneous), [SIGKDD](#miscellaneous), [JSAC](#miscellaneous), [DAC](#miscellaneous), [TOPLAS](#miscellaneous), [ISCA](#miscellaneous).
 
 ---
 
@@ -40,6 +40,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### 2024
 
 [review] [Large Language Models for Blockchain Security: A Systematic Literature Review](https://eprint.iacr.org/2024/477.pdf).
+
+[review] [A survey on large language model (llm) security and privacy: The good, the bad, and the ugly]().
+
+[review] []().
 
 -----
 
@@ -62,6 +66,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [Stealing the Decoding Algorithms of Language Models]().
 
 [Large Language Models for Code: Security Hardening and Adversarial Testing]().
+
+[Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection]()
 
 ---
 
@@ -106,3 +112,14 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### 2024
 
 [fuzz] [Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models]().
+
+---
+
+-----
+
+# journal
+
+## TIFS
+
+[LLM] [(Security) Assertions by Large Language Models]().
+
