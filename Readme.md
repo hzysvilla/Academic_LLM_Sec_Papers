@@ -99,6 +99,16 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ---
 
+## OOPSLA
+
+### 2024
+
+[Enhancing Static Analysis for Practical Bug Detection: An LLM-Integrated Approach](https://www.cs.ucr.edu/~zhiyunq/pub/oospla24_llift.pdf).
+
+[PyDex: Repairing Bugs in Introductory Python Assignments using LLMs](https://arxiv.org/pdf/2209.14876).
+
+---
+
 ## ICSE
 
 ### 2024
