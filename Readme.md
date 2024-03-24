@@ -39,11 +39,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [A survey on large language model (llm) security and privacy: The good, the bad, and the ugly](https://arxiv.org/pdf/2403.14280).
 
-[Large language models for software engineering: A systematic literature review]().
+[Large language models for software engineering: A systematic literature review](https://arxiv.org/pdf/2308.10620).
 
 [Securing Large Language Models: Threats, Vulnerabilities and Responsible Practices](https://arxiv.org/pdf/2403.12503).
 
-[Unveiling security, privacy, and ethical concerns of chatgpt]().
+[Unveiling security, privacy, and ethical concerns of chatgpt](https://arxiv.org/abs/2307.14192).
 
 -----
 
@@ -61,12 +61,12 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [Examining zero-shot vulnerability repair with large language models](https://arxiv.org/pdf/2112.02125).
 
-[Analyzing Leakage of Personally Identifiable Information in Language Models]().
+[Analyzing Leakage of Personally Identifiable Information in Language Models](https://arxiv.org/pdf/2302.00539).
 
 
 ### 2022
 
-[Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions]().
+[Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions](https://arxiv.org/pdf/2108.09293).
 
 ---
 
@@ -88,11 +88,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [Lost at c: A user study on the security implications of large language model code assistants](https://arxiv.org/abs/2208.09727).
 
-[CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot]().
+[CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot](https://www.usenix.org/system/files/usenixsecurity23-niu.pdf).
 
 ### 2021
 
-[You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion]().
+[You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion](https://www.usenix.org/system/files/sec21-schuster.pdf).
 
 ---
 
@@ -130,49 +130,47 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [LLMParser: An Exploratory Study on Using Large Language Models for Log Parsing](https://petertsehsun.github.io/papers/LLMParser.pdf).
 
-[Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study]().
+[Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study](https://arxiv.org/pdf/2309.08221).
 
-[Large Language Models are  Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT]().
+[Large Language Models are  Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT](https://arxiv.org/pdf/2304.02014).
 
-[UniLog: Automatic Logging via LLM and In-Context Learning]().
+[UniLog: Automatic Logging via LLM and In-Context Learning](https://dl.acm.org/doi/pdf/10.1145/3597503.3623326).
 
-[Prompting Is All You Need: Automated Android Bug Replay with Large Language Models]().
+[Prompting Is All You Need: Automated Android Bug Replay with Large Language Models](https://arxiv.org/pdf/2306.01987).
 
-[Large Language Models for Test-Free Fault Localization]().
+[Large Language Models for Test-Free Fault Localization](https://arxiv.org/pdf/2310.01726).
 
-[Large language models are few-shot testers: Exploring llm-based general bug reproduction]().
+[Large language models are few-shot testers: Exploring llm-based general bug reproduction](https://arxiv.org/abs/2209.11515).
 
-[Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning]().
+[Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning](https://arxiv.org/pdf/2304.11384).
 
 [Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries]().
 
-[GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis]().
+[GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://arxiv.org/pdf/2308.03314).
 
-[Automated Program Repair in the Era of Large Pre-trained Language Models]().
-
-[Prompting Is All You Need: Automated Android Bug Replay with Large Language Models]().
+[Automated Program Repair in the Era of Large Pre-trained Language Models](https://lingming.cs.illinois.edu/publications/icse2023a.pdf).
 
 ### 2023
 
 [Does data sampling improve deep learning-based vulnerability detection? Yeas! and Nays!]().
 
-[An Empirical Study of Deep Learning Models for Vulnerability Detection]().
+[An Empirical Study of Deep Learning Models for Vulnerability Detection](https://arxiv.org/pdf/2212.08109).
 
 [RepresentThemAll: A Universal Learning Representation of Bug Reports]().
 
-[Contrabert: Enhancing code pre-trained models via contrastive learning]().
+[Contrabert: Enhancing code pre-trained models via contrastive learning](https://arxiv.org/pdf/2301.09072).
 
-[On the robustness of code generation techniques: An empirical study on github copilot]().
+[On the robustness of code generation techniques: An empirical study on github copilot](https://sscalabrino.github.io/files/2023/ICSE2023OnTheRobustness.pdf).
 
-[Two sides of the same coin: Exploiting the impact of identifiers in neural code comprehension]().
+[Two sides of the same coin: Exploiting the impact of identifiers in neural code comprehension](https://yuyue.github.io/res/paper/NeuralCode-ICSE2023.pdf).
 
-[Automated repair of programs from large language models]().
+[Automated repair of programs from large language models](https://arxiv.org/pdf/2205.10583).
 
-[Cctest: Testing and repairing code completion systems]().
+[Cctest: Testing and repairing code completion systems](https://arxiv.org/pdf/2208.08289).
 
 ### 2022
 
-[ReCode: Robustness Evaluation of Code Generation Models]().
+[ReCode: Robustness Evaluation of Code Generation Models](https://aclanthology.org/2023.acl-long.773.pdf).
 
 ---
 
@@ -180,13 +178,13 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
-[Better Patching Using LLM Prompting, via Self-Consistency]().
+[Better Patching Using LLM Prompting, via Self-Consistency](https://arxiv.org/pdf/2306.00108).
 
-[Towards Autonomous Testing Agents via Conversational Large Language Models]().
+[Towards Autonomous Testing Agents via Conversational Large Language Models](https://arxiv.org/pdf/2306.05152).
 
-[Let's Chat to Find the APIs: Connecting Human, LLM and Knowledge Graph through AI Chain]().
+[Let's Chat to Find the APIs: Connecting Human, LLM and Knowledge Graph through AI Chain](https://arxiv.org/abs/2309.16134).
 
-[Log Parsing: How Far Can ChatGPT Go?]().
+[Log Parsing: How Far Can ChatGPT Go?](https://arxiv.org/pdf/2306.01590).
 
 ### 2022
 
@@ -198,13 +196,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
-[Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models]().
-
-[How Effective Are Neural Networks for Fixing Security Vulnerabilities]().
+[Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models](https://arxiv.org/pdf/2212.14834).
 
 ### 2023
 
-[How Effective Are Neural Networks for Fixing Security Vulnerabilities]().
+[How Effective Are Neural Networks for Fixing Security Vulnerabilities](https://arxiv.org/abs/2305.18607).
 
 ---
 
@@ -212,25 +208,25 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
-[InferFix: End-to-End Program Repair with LLMs]().
+[InferFix: End-to-End Program Repair with LLMs](https://arxiv.org/pdf/2303.07263).
 
-[Getting pwn'd by ai: Penetration testing with large language models]().
+[Getting pwn'd by ai: Penetration testing with large language models](https://arxiv.org/abs/2308.00121).
 
 [Llm-based code generation method for golang compiler testing]().
 
-[Assisting static analysis with large language models: A chatgpt experiment]().
+[Assisting static analysis with large language models: A chatgpt experiment](https://sp2023.ieee-security.org/downloads/SP23-posters/sp23-posters-paper39-final_version_2_page_abstract.pdf).
 
-[Assess and Summarize: Improve Outage Understanding with Large Language Models]().
+[Assess and Summarize: Improve Outage Understanding with Large Language Models](https://arxiv.org/abs/2305.18084).
 
 ### 2022
 
-[Generating realistic vulnerabilities via neural code editing: an empirical study]().
+[Generating realistic vulnerabilities via neural code editing: an empirical study](https://chapering.github.io/pubs/fse22yu.pdf).
 
-[You see what I want you to see: poisoning vulnerabilities in neural code search]().
+[You see what I want you to see: poisoning vulnerabilities in neural code search](https://arxiv.org/pdf/2007.02220).
 
 ### 2021
 
-[Vulnerability detection with fine-grained interpretations]().
+[Vulnerability detection with fine-grained interpretations](https://arxiv.org/abs/2106.10478).
 
 ---
 
@@ -273,7 +269,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [(Security) Assertions by Large Language Models]().
 
-[A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices]().
+[A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices]()[A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices]().
 
 ## TDSC
 
@@ -294,6 +290,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ## TOSEM
 
 [Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains]().
+
 [Adversarial Robustness of Deep Code Comment Generation ]().
 
 ## Miscellaneous
