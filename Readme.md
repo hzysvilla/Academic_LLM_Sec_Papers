@@ -141,6 +141,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[Fuzz4All: Universal Fuzzing with Large Language Models](https://arxiv.org/pdf/2308.04748).
+
 [LLMParser: An Exploratory Study on Using Large Language Models for Log Parsing](https://petertsehsun.github.io/papers/LLMParser.pdf).
 
 [Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study](https://arxiv.org/pdf/2309.08221).
@@ -180,6 +182,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [Automated repair of programs from large language models](https://arxiv.org/pdf/2205.10583).
 
 [Cctest: Testing and repairing code completion systems](https://arxiv.org/pdf/2208.08289).
+
+[CodaMosa: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models]().
+
+[Impact of Code Language Models on Automated Program Repair](https://arxiv.org/pdf/2302.05020).
 
 ### 2022
 
@@ -248,6 +254,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### 2024
 
 [Not the end of story: An evaluation of chatgpt-driven vulnerability description mappings]().
+
+[Understanding Programs by Exploiting (Fuzzing) Test Cases]().
 
 ### 2023
 
