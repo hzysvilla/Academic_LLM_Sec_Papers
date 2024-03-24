@@ -13,8 +13,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 | :---------------------------------: | :-----------------------------------------------: | :-----------------------------------------: | :------------------: |
 |           [IEEE S&P](#sp)           |             [SIGMETRICS](#sigmetrics)             |                [ICSE](#icse)                |     [AAAI](#aaai)    |
 |           [ACM CCS](#ccs)           |                   [ICDE](#others)                 |            [ESEC/FSE](#esecfse)             |     [ACL](#acl)      |
-| [USENIX Security](#usenix-security) |                   [VLDB](#others)                 |                 [ASE](#ase)                 |                      |
-|           [NDSS](#ndss)             |               [ACM SIGMOD](#others)               |              [ACM PLDI](#pldi)              |                      |
+| [USENIX Security](#usenix-security) |                   [VLDB](#others)                 |                 [ASE](#ase)                 |     [ICML](#ICML)    |
+|           [NDSS](#ndss)             |               [ACM SIGMOD](#others)               |              [ACM PLDI](#pldi)              |  [NeurIPS](#neurips) |
 |        [IEEE DSN](#dsn)             |             [IEEE INFOCOM](#infocom)              |            [ACM OOPSLA](#oopsla)            |                      |
 |         [SRCS](#others)             |                   [IMC](#imc)                     |              [ISSTA](#issta)                |                      |
 |          [RAID](#raid)              |                   [WWW](#www)                     |             [ACM POPL](#popl)               |                      |
@@ -63,10 +63,15 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [Analyzing Leakage of Personally Identifiable Information in Language Models](https://arxiv.org/pdf/2302.00539).
 
-
 ### 2022
 
 [Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions](https://arxiv.org/pdf/2108.09293).
+
+[Spinning language models: Risks of propaganda-as-a-service and countermeasures](https://arxiv.org/pdf/2112.05224).
+
+### 2020
+
+[Privacy risks of general-purpose language models](https://secsys.fudan.edu.cn/_upload/article/files/83/cf/30cf2162490d965e57d40c5690df/33a28df5-f9d1-45d3-bfa1-971de54513b3.pdf)
 
 ---
 
@@ -78,7 +83,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [Large Language Models for Code: Security Hardening and Adversarial Testing](https://arxiv.org/pdf/2302.05319).
 
-[Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
+[Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173).
+
+[Protecting intellectual property of large language model-based code generation apis via watermarks](https://dl.acm.org/doi/pdf/10.1145/3576915.3623120).
+
+[Dp-forward: Fine-tuning and inference on language models with differential privacy in forward pass](https://arxiv.org/abs/2309.06746).
 
 ---
 
@@ -90,7 +99,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot](https://www.usenix.org/system/files/usenixsecurity23-niu.pdf).
 
+[{Two-in-One}: A Model Hijacking Attack Against Text Generation Models](https://www.usenix.org/system/files/usenixsecurity23-si.pdf).
+
 ### 2021
+
+[Extracting Training Data from Large Language Models](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf).
 
 [You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion](https://www.usenix.org/system/files/sec21-schuster.pdf).
 
@@ -240,9 +253,19 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [Backdooring Neural Code Search]().
 
+[Membership inference attacks against language models via neighbourhood comparison](https://proceedings.mlr.press/v202/yu23c/yu23c.pdf).
+
+[Are you copying my model? protecting the copyright of large language models for eaas via backdoor watermark](https://arxiv.org/pdf/2305.10036).
+
 ### 2022
 
 [ReCode: Robustness Evaluation of Code Generation Models]().
+
+[Knowledge unlearning for mitigating privacy risks in language models](https://arxiv.org/pdf/2210.01504).
+
+### 2018
+
+[Contamination attacks and mitigation in multi-party machine learning]().
 
 ---
 
@@ -253,6 +276,27 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [Adversarial Robustness of Deep Code Comment Generation]().
 
 ---
+
+## ICML
+
+### 2023
+
+[Bag of tricks for training data extraction from language models](https://arxiv.org/pdf/2302.04460).
+
+### 2022
+
+[Deduplicating training data mitigates privacy risks in language models](https://proceedings.mlr.press/v162/kandpal22a/kandpal22a.pdf).
+
+---
+
+## NeurIPS
+
+### 2022
+
+[Recovering private text in federated learning of language models](https://proceedings.neurips.cc/paper_files/paper/2022/file/35b5c175e139bff5f22a5361270fce87-Paper-Conference.pdf).
+
+---
+
 
 ## WWW
 
