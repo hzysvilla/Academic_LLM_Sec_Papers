@@ -9,13 +9,13 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700.
 Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=O_vixKoAAAAJ).
 
 ## Table of Listed Conferences
-|     Security & Crypto               |               Networking & Database               | Software Engineering & Programming Language | System Architecture  |
+|     Security & Crypto               |               Networking & Database               | Software Engineering & Programming Language |  Machine Learning    |
 | :---------------------------------: | :-----------------------------------------------: | :-----------------------------------------: | :------------------: |
-|           [IEEE S&P](#sp)           |             [SIGMETRICS](#sigmetrics)             |                [ICSE](#icse)                |  [EuroSys](#others)  |
-|           [ACM CCS](#ccs)           |                   [ICDE](#others)                 |            [ESEC/FSE](#esecfse)             |  [ACM SOSP](#sosp)   |
-| [USENIX Security](#usenix-security) |                   [VLDB](#others)                 |                 [ASE](#ase)                 |  [IEEE ICDCS](#icdcs)|
-|           [NDSS](#ndss)             |               [ACM SIGMOD](#others)               |              [ACM PLDI](#pldi)              |     [OSDI](#osdi)    |
-|        [IEEE DSN](#dsn)             |             [IEEE INFOCOM](#infocom)              |            [ACM OOPSLA](#oopsla)            | [Usenix ATC](#others)|
+|           [IEEE S&P](#sp)           |             [SIGMETRICS](#sigmetrics)             |                [ICSE](#icse)                |     [AAAI](#aaai)    |
+|           [ACM CCS](#ccs)           |                   [ICDE](#others)                 |            [ESEC/FSE](#esecfse)             |     [ACL](#acl)      |
+| [USENIX Security](#usenix-security) |                   [VLDB](#others)                 |                 [ASE](#ase)                 |                      |
+|           [NDSS](#ndss)             |               [ACM SIGMOD](#others)               |              [ACM PLDI](#pldi)              |                      |
+|        [IEEE DSN](#dsn)             |             [IEEE INFOCOM](#infocom)              |            [ACM OOPSLA](#oopsla)            |                      |
 |         [SRCS](#others)             |                   [IMC](#imc)                     |              [ISSTA](#issta)                |                      |
 |          [RAID](#raid)              |                   [WWW](#www)                     |             [ACM POPL](#popl)               |                      |
 |          [CAV](#cav)                |                                                   |                                             |                      |
@@ -59,7 +59,14 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
-[Examining zero-shot vulnerability repair with large language models](https://arxiv.org/pdf/2112.02125)
+[Examining zero-shot vulnerability repair with large language models](https://arxiv.org/pdf/2112.02125).
+
+[Analyzing Leakage of Personally Identifiable Information in Language Models]().
+
+
+### 2022
+
+[Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions]().
 
 ---
 
@@ -80,6 +87,12 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### 2023
 
 [Lost at c: A user study on the security implications of large language model code assistants](https://arxiv.org/abs/2208.09727).
+
+[CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot]().
+
+### 2021
+
+[You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion]().
 
 ---
 
@@ -139,6 +152,28 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [Prompting Is All You Need: Automated Android Bug Replay with Large Language Models]().
 
+### 2023
+
+[Does data sampling improve deep learning-based vulnerability detection? Yeas! and Nays!]().
+
+[An Empirical Study of Deep Learning Models for Vulnerability Detection]().
+
+[RepresentThemAll: A Universal Learning Representation of Bug Reports]().
+
+[Contrabert: Enhancing code pre-trained models via contrastive learning]().
+
+[On the robustness of code generation techniques: An empirical study on github copilot]().
+
+[Two sides of the same coin: Exploiting the impact of identifiers in neural code comprehension]().
+
+[Automated repair of programs from large language models]().
+
+[Cctest: Testing and repairing code completion systems]().
+
+### 2022
+
+[ReCode: Robustness Evaluation of Code Generation Models]().
+
 ---
 
 ## ASE
@@ -153,6 +188,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [Log Parsing: How Far Can ChatGPT Go?]().
 
+### 2022
+
+[Robust Learning of Deep Predictive Models from Noisy and Imbalanced Software Engineering Datasets]().
+
 ---
 
 ## ISSTA
@@ -160,6 +199,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### 2024
 
 [Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models]().
+
+[How Effective Are Neural Networks for Fixing Security Vulnerabilities]().
+
+### 2023
 
 [How Effective Are Neural Networks for Fixing Security Vulnerabilities]().
 
@@ -177,9 +220,50 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [Assisting static analysis with large language models: A chatgpt experiment]().
 
-[Assess and Summarize: Improve Outage Understanding with Large Language Models]()
+[Assess and Summarize: Improve Outage Understanding with Large Language Models]().
+
+### 2022
+
+[Generating realistic vulnerabilities via neural code editing: an empirical study]().
+
+[You see what I want you to see: poisoning vulnerabilities in neural code search]().
+
+### 2021
+
+[Vulnerability detection with fine-grained interpretations]().
 
 ---
+
+## ACL
+
+### 2024
+
+[Not the end of story: An evaluation of chatgpt-driven vulnerability description mappings]().
+
+### 2023
+
+[Backdooring Neural Code Search]().
+
+### 2022
+
+[ReCode: Robustness Evaluation of Code Generation Models]().
+
+---
+
+## AAAI
+
+### 2022
+
+[Adversarial Robustness of Deep Code Comment Generation]().
+
+---
+
+## WWW
+
+### 2022
+
+[Coprotector: Protect open-source code against unauthorized training usage with data poisoning]().
+
 
 -----
 
@@ -189,11 +273,13 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [(Security) Assertions by Large Language Models]().
 
+[A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices]().
+
 ## TDSC
 
 [PrivacyAsst: Safeguarding User Privacy in Tool-Using Large Language Model Agents]().
 
-[]
+[CD-VulD: Cross-Domain Vulnerability Discovery Based on Deep Domain Adaptation]().
 
 ## TSE
 
@@ -201,11 +287,14 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [An Empirical Evaluation of Using Large Language Models for Automated Unit Test Generation]().
 
+[Deep Learning Based Vulnerability Detection: Are We There Yet?]().
+
+[On the Value of Oversampling for Deep Learning in Software Defect Prediction]().
+
 ## TOSEM
 
 [Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains]().
+[Adversarial Robustness of Deep Code Comment Generation ]().
 
 ## Miscellaneous
-
-[ACL24] [Not the end of story: An evaluation of chatgpt-driven vulnerability description mappings]().
 
