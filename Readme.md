@@ -113,6 +113,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors](https://www.ndss-symposium.org/wp-content/uploads/2024-238-paper.pdf)
+
 [Analysis of the Effect of the Difference between Japanese and English Input on ChatGPT-Generated Secure Codes](https://www.ndss-symposium.org/wp-content/uploads/madweb2024-84-paper.pdf).
 
 [MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots](https://www.ndss-symposium.org/ndss-paper/masterkey-automated-jailbreaking-of-large-language-model-chatbots/).
@@ -140,6 +142,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ## ICSE
 
 ### 2024
+
+[Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT](https://arxiv.org/pdf/2304.02014)
 
 [Fuzz4All: Universal Fuzzing with Large Language Models](https://arxiv.org/pdf/2308.04748).
 
@@ -346,4 +350,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [Adversarial Robustness of Deep Code Comment Generation ]().
 
 ## Miscellaneous
+
+[LLM4Fuzz: Guided Fuzzing of Smart Contracts with Large Language Models](https://arxiv.org/pdf/2401.11108)
+
+[CHEMFUZZ: Large Language Models-assisted Fuzzing for  Quantum Chemistry Software  Bug Detection]()
+
+[Attack Prompt Generation for Red Teaming and Defending Large Language Models]()
 
