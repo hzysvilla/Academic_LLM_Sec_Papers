@@ -53,6 +53,20 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[Combing for Credentials: Active Pattern Extraction from Smart Reply]().
+
+[DrSec: Flexible Distributed Representations for Efficient Endpoint Security]().
+
+[Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in LargeLanguage Models]().
+
+[Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers' Coding Practices with Insecure Suggestions from Poisoned AI Models]().
+
+[TROJANPUZZLE: Covertly Poisoning Code-Suggestion Models]().
+
+[Transferable Multimoda!Attack on Vision-LanguagePre-Training Models]().
+
+[You Only Prompt Once: On the Capabilities of PromptLearning on Large LanguageModels to Tackle ToxicContent]().
+
 [SMARTINV: Multimodal Learning for Smart Contract Invariant Inference]().
 
 [LLMIF: Augmented Large Language Model for Fuzzing IoT Devices]().
