@@ -211,6 +211,14 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ---
 
+## CAV
+
+### 2024
+
+[Enchanting Program Specification Synthesis by Large Language Models using Static Analysis and Program Verification](https://arxiv.org/abs/2404.00762).
+
+---
+
 ## ASE
 
 ### 2024
