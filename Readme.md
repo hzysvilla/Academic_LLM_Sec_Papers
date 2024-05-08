@@ -91,6 +91,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## CCS
 
+### 2024
+
+[GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models](https://zjzac.github.io/publications/pdf/CCS_24_bias.pdf).
+
+
 ### 2023
 
 [Stealing the Decoding Algorithms of Language Models](https://arxiv.org/abs/2303.04729).
