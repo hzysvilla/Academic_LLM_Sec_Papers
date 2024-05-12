@@ -339,6 +339,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## WWW
 
+### 2024
+
+[ZipZap: Efficient Training of Language Models for Large-Scale Fraud Detection on Blockchain]().
+
 ### 2022
 
 [Coprotector: Protect open-source code against unauthorized training usage with data poisoning]().
