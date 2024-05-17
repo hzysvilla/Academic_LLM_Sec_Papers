@@ -112,6 +112,14 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## USENIX Security
 
+### 2024
+
+[Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models](https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan).
+
+[Large Language Models for Code Analysis: Do LLMs Really Do Their Job?]().
+
+[EaTVul: ChatGPT-based Evasion Attack Against Software Vulnerability Detection]().
+
 ### 2023
 
 [Lost at c: A user study on the security implications of large language model code assistants](https://arxiv.org/abs/2208.09727).
