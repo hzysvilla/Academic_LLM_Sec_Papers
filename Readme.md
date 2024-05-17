@@ -120,6 +120,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [EaTVul: ChatGPT-based Evasion Attack Against Software Vulnerability Detection]().
 
+[Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing]().
+
+[Prompt Stealing Attacks Against Text-to-Image Generation Models]().
+
 ### 2023
 
 [Lost at c: A user study on the security implications of large language model code assistants](https://arxiv.org/abs/2208.09727).
