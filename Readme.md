@@ -114,6 +114,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[PENTESTGPT: An LLM-empowered Automatic Penetration Testing Tool](https://arxiv.org/pdf/2308.06782)
+
 [Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models](https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan).
 
 [Large Language Models for Code Analysis: Do LLMs Really Do Their Job?]().
