@@ -53,6 +53,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[On Large Language Models’ Resilience to Coercive Interrogation]().
+
 [Combing for Credentials: Active Pattern Extraction from Smart Reply]().
 
 [DrSec: Flexible Distributed Representations for Efficient Endpoint Security]().
