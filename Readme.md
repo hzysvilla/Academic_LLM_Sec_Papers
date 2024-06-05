@@ -95,6 +95,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[PromptFuzz: Prompt Fuzzing for Fuzz Driver Generation]().
+
 [GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models](https://zjzac.github.io/publications/pdf/CCS_24_bias.pdf).
 
 
