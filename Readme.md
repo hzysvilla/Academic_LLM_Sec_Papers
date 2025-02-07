@@ -359,6 +359,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## WWW
 
+### 2025
+
+[SuiGPT MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract]().
+
 ### 2024
 
 [ZipZap: Efficient Training of Language Models for Large-Scale Fraud Detection on Blockchain]().
