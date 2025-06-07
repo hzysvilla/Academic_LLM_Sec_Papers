@@ -51,27 +51,43 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## S&P
 
+### 2025
+
+[Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org/pdf/2503.09022)
+
+[Supporting Human Raters with the Detection of Harmful Content using Large Language Models](https://arxiv.org/pdf/2406.12800)
+
+[BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target](https://www.cs.purdue.edu/homes/an93/static/papers/SP25_Shen.pdf)
+
+[SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis](https://arxiv.org/pdf/2505.20630)
+
+[CODEBREAKER: Dynamic Extraction Attacks on Code Language Models](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a522/26hiTLYepe8)
+
+[Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a336/26hiTETXKow)
+
+[Modifier Unlocked: Jailbreaking Text-to-Image Models Through Prompts](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a355/26EkESqqGlO)
+
 ### 2024
 
-[On Large Language Models’ Resilience to Coercive Interrogation]().
+[On Large Language Models’ Resilience to Coercive Interrogation](https://www.cs.purdue.edu/homes/cheng535/static/papers/sp24_lint.pdf).
 
-[Combing for Credentials: Active Pattern Extraction from Smart Reply]().
+[Combing for Credentials: Active Pattern Extraction from Smart Reply](https://arxiv.org/pdf/2207.10802).
 
-[DrSec: Flexible Distributed Representations for Efficient Endpoint Security]().
+[DrSec: Flexible Distributed Representations for Efficient Endpoint Security](https://users.cs.duke.edu/~mlentz/papers/drsec_sp24.pdf).
 
-[Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in LargeLanguage Models]().
+[Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in LargeLanguage Models](https://arxiv.org/pdf/2312.15099).
 
-[Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers' Coding Practices with Insecure Suggestions from Poisoned AI Models]().
+[Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers' Coding Practices with Insecure Suggestions from Poisoned AI Models](https://arxiv.org/pdf/2312.06227).
 
-[TROJANPUZZLE: Covertly Poisoning Code-Suggestion Models]().
+[TROJANPUZZLE: Covertly Poisoning Code-Suggestion Models](https://arxiv.org/pdf/2301.02344).
 
-[Transferable Multimoda!Attack on Vision-LanguagePre-Training Models]().
+[Transferable Multimoda!Attack on Vision-LanguagePre-Training Models](https://ieeexplore.ieee.org/abstract/document/10646738).
 
-[You Only Prompt Once: On the Capabilities of PromptLearning on Large LanguageModels to Tackle ToxicContent]().
+[You Only Prompt Once: On the Capabilities of PromptLearning on Large LanguageModels to Tackle ToxicContent](https://arxiv.org/pdf/2308.05596).
 
-[SMARTINV: Multimodal Learning for Smart Contract Invariant Inference]().
+[SMARTINV: Multimodal Learning for Smart Contract Invariant Inference](https://arxiv.org/pdf/2411.09217).
 
-[LLMIF: Augmented Large Language Model for Fuzzing IoT Devices]().
+[LLMIF: Augmented Large Language Model for Fuzzing IoT Devices](https://www.jcwang.me/llmif.pdf).
 
 ### 2023
 
@@ -92,6 +108,30 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ---
 
 ## CCS
+
+### 2025
+
+[GenderCARE: A comprehensive framework for assessing and reducing gender bias in large language models](https://dl.acm.org/doi/pdf/10.1145/3658644.3670284)
+
+["Better Be Computer or I'm Dumb": A Large-Scale Evaluation of Humans as Audio Deepfake Detectors](https://cise.ufl.edu/~butler/pubs/ccs24-warren-deepfake.pdf)
+
+[zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)
+
+[PLeak: Prompt Leaking Attacks against Large Language Model Applications](https://arxiv.org/abs/2405.06823)
+
+["Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models](https://arxiv.org/pdf/2308.03825)
+
+[A Causal Explainable Guardrails for Large Language Models](https://arxiv.org/pdf/2405.04160)
+
+[ProphetFuzz: Fully Automated Prediction and Fuzzing of High-Risk Option Combinations with Only Documentation via Large Language Model](https://arxiv.org/pdf/2409.00922)
+
+[Unveiling the Vulnerability of Private Fine-Tuning in Split-Based Frameworks for Large Language Models: A Bidirectionally Enhanced Attack](https://arxiv.org/pdf/2409.00960)
+
+[PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3658644.3690298)
+
+[Legilimens: Practical and Unified Content Moderation for Large Language Model Services](https://arxiv.org/pdf/2408.15488)
+
+[The Janus Interface: How Fine-Tuning in Large Language Models Amplifies the Privacy Risks](https://dl.acm.org/doi/pdf/10.1145/3658644.3690325)
 
 ### 2024
 
@@ -115,6 +155,29 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ---
 
 ## USENIX Security
+
+### 2025
+
+[Am I Infected? Lessons from Operating a Large-Scale IoT Security Diagnostic Service](https://arxiv.org/pdf/2501.07326)
+
+[PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/pdf/2402.07867)
+
+[JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation](https://arxiv.org/pdf/2502.07557)
+
+[LLMmap: Fingerprinting for Large Language Models](https://arxiv.org/pdf/2407.15847?)
+
+[Generated Data with Fake Privacy: Hidden Dangers of Fine-tuning Large Language Models on Generated Data](https://arxiv.org/pdf/2409.11423)
+
+[Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1107-he.pdf)
+
+[APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1174-nong.pdf)
+
+[Mirage in the Eyes: Hallucination Attack on Multi-modal Large Language Models with Only Attention Sink](https://arxiv.org/pdf/2501.15269)
+
+[StruQ: Defending Against Prompt Injection with Structured Queries](https://arxiv.org/pdf/2402.06363)
+
+[On the Proactive Generation of Unsafe Images From Text-To-Image Models Using Benign Prompts](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-590-wu-yixin-generation.pdf)
+
 
 ### 2024
 
@@ -149,6 +212,26 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ---
 
 ## NDSS
+
+### 2025
+
+[BumbleBee: Secure Two-party Inference Framework for Large Transformers](https://www.ndss-symposium.org/ndss-paper/bumblebee-secure-two-party-inference-framework-for-large-transformers/)
+
+[The Philosopher’s Stone: Trojaning Plugins of Large Language Models](https://www.ndss-symposium.org/ndss-paper/the-philosophers-stone-trojaning-plugins-of-large-language-models/)
+
+[The Skeleton Keys: A Large Scale Analysis of Credential Leakage in Mini-apps](https://www.ndss-symposium.org/ndss-paper/the-skeleton-keys-a-large-scale-analysis-of-credential-leakage-in-mini-apps/)
+
+[Safety Misalignment Against Large Language Models](https://www.ndss-symposium.org/ndss-paper/safety-misalignment-against-large-language-models/)
+
+[The (Un)usual Suspects – Studying Reasons for Lacking Updates in WordPress](https://www.ndss-symposium.org/ndss-paper/the-unusual-suspects-studying-reasons-for-lacking-updates-in-wordpress/)
+
+[CLIBE: Detecting Dynamic Backdoors in Transformer-based NLP Models](https://www.ndss-symposium.org/ndss-paper/clibe-detecting-dynamic-backdoors-in-transformer-based-nlp-models/)
+
+[Secure Transformer Inference Made Non-interactive](https://www.ndss-symposium.org/ndss-paper/secure-transformer-inference-made-non-interactive/)
+
+[Transparency or Information Overload? Evaluating Users’ Comprehension and Perceptions of the iOS App Privacy Report](https://www.ndss-symposium.org/ndss-paper/transparency-or-information-overload-evaluating-users-comprehension-and-perceptions-of-the-ios-app-privacy-report/)
+
+[Provably Unlearnable Data Examples](https://www.ndss-symposium.org/ndss-paper/provably-unlearnable-data-examples/)
 
 ### 2024
 
