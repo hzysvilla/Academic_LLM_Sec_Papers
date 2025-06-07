@@ -2,14 +2,15 @@
 
 A curated LLM Security Application related academic papers. All papers are sorted based on the conference name and published year.
 
-**Welcome developers or researchers to add more published papers to this list**.
+**💡 Welcome developers or researchers to add more published papers to this list**.
 
-The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700.
-
+**About the Maintainer**.
 Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=O_vixKoAAAAJ).
 
-## Table of Listed Conferences
-|     Security & Crypto               |               Networking & Database               | Software Engineering & Programming Language |  Machine Learning    |
+📬 The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700.
+
+## Listed Conferences
+|    🔐 Security & Crypto               |              🌐 Networking & Database               |💻  Software Engineering & Programming Language | 🧠  Machine Learning    |
 | :---------------------------------: | :-----------------------------------------------: | :-----------------------------------------: | :------------------: |
 |           [IEEE S&P](#sp)           |             [SIGMETRICS](#sigmetrics)             |                [ICSE](#icse)                |     [AAAI](#aaai)    |
 |           [ACM CCS](#ccs)           |                   [ICDE](#others)                 |            [ESEC/FSE](#esecfse)             |     [ACL](#acl)      |
@@ -20,7 +21,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 |          [RAID](#raid)              |                   [WWW](#www)                     |             [ACM POPL](#popl)               |                      |
 |          [CAV](#cav)                |                                                   |                                             |                      |
 
-## Table of Listed Journals
+## Listed Journals
 - [TOSEM](#tosem)
 - [TSE](#tse)
 - [TDSC](#tdsc)
@@ -33,17 +34,27 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 # Literature Review
 
+### 2025
+
+1.[Recent Advances in Large Language Model Benchmarks Against Data Contamination: From Static to Dynamic Evaluation](https://arxiv.org/pdf/2502.17521)
+
+2.[ADVANCES AND CHALLENGES IN FOUNDATION AGENTS FROM BRAIN-INSPIRED INTELLIGENCE TO EVOLUTIONARY, COLLABORATIVE, AND SAFE SYSTEMS](https://arxiv.org/pdf/2504.01990)
+
+3.[Foundation Models Defining a New Era in Vision: A Survey and Outlook](https://ieeexplore.ieee.org/abstract/document/10834497)
+
 ### 2024
 
-[Large Language Models for Blockchain Security: A Systematic Literature Review](https://eprint.iacr.org/2024/477.pdf).
+1.[Large Language Models for Blockchain Security: A Systematic Literature Review](https://eprint.iacr.org/2024/477.pdf).
 
-[A survey on large language model (llm) security and privacy: The good, the bad, and the ugly](https://arxiv.org/pdf/2403.14280).
+2.[A survey on large language model (llm) security and privacy: The good, the bad, and the ugly](https://arxiv.org/pdf/2403.14280).
 
-[Large language models for software engineering: A systematic literature review](https://arxiv.org/pdf/2308.10620).
+3.[Large language models for software engineering: A systematic literature review](https://arxiv.org/pdf/2308.10620).
 
-[Securing Large Language Models: Threats, Vulnerabilities and Responsible Practices](https://arxiv.org/pdf/2403.12503).
+4.[Securing Large Language Models: Threats, Vulnerabilities and Responsible Practices](https://arxiv.org/pdf/2403.12503).
 
-[Unveiling security, privacy, and ethical concerns of chatgpt](https://arxiv.org/abs/2307.14192).
+5.[Unveiling security, privacy, and ethical concerns of chatgpt](https://arxiv.org/abs/2307.14192).
+
+6.[Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://dl.acm.org/doi/pdf/10.1145/3649506)
 
 -----
 
@@ -53,19 +64,19 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2025
 
-[Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org/pdf/2503.09022)
+1.[Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org/pdf/2503.09022)
 
-[Supporting Human Raters with the Detection of Harmful Content using Large Language Models](https://arxiv.org/pdf/2406.12800)
+2.[Supporting Human Raters with the Detection of Harmful Content using Large Language Models](https://arxiv.org/pdf/2406.12800)
 
-[BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target](https://www.cs.purdue.edu/homes/an93/static/papers/SP25_Shen.pdf)
+3.[BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target](https://www.cs.purdue.edu/homes/an93/static/papers/SP25_Shen.pdf)
 
-[SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis](https://arxiv.org/pdf/2505.20630)
+4.[SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis](https://arxiv.org/pdf/2505.20630)
 
-[CODEBREAKER: Dynamic Extraction Attacks on Code Language Models](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a522/26hiTLYepe8)
+5.[CODEBREAKER: Dynamic Extraction Attacks on Code Language Models](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a522/26hiTLYepe8)
 
-[Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a336/26hiTETXKow)
+6.[Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a336/26hiTETXKow)
 
-[Modifier Unlocked: Jailbreaking Text-to-Image Models Through Prompts](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a355/26EkESqqGlO)
+7.[Modifier Unlocked: Jailbreaking Text-to-Image Models Through Prompts](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a355/26EkESqqGlO)
 
 ### 2024
 
