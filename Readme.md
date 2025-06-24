@@ -200,7 +200,74 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### 2026
 
 * [Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar]().
-* 
+* [Source Code Summarization in the Era of Large Language Models]().
+* [SpecGen: Automated Generation of Formal Program Specifications via Large Language Models]().
+* [SpecRover: Code Intent Extraction via LLMs]().
+* [TOGLL: Correct and Strong Test Oracle Generation with LLMs]().
+* [Template-Guided Program Repair in the Era of Large Language Models]().
+* [Test Intention Guided LLM-based Unit Test Generation]().
+* [The Fact Selection Problem in LLM-Based Program Repair]().
+* [The Seeds of the FUTURE Sprout from History: Fuzzing for Unveiling Vulnerabilities in Prospective Deep-Learning Libraries]().
+* [Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks]().
+* [Towards Understanding the Characteristics of Code Generation Errors Made by Large Language Models]().
+* [Unleashing the True Potential of Semantic-based Log Parsing with Pre-trained Language Models]().
+* [Your Fix Is My Exploit: Enabling Comprehensive DL Library API Fuzzing with Large Language Models]().
+* [IRFuzzer: Specialized Fuzzing for LLVM Backend Code Generation]().
+* [Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution]().
+* [Instruct or Interact? Exploring and Eliciting LLMs’ Capability in Code Snippet Adaptation Through Prompt Engineering]().
+* [Intention is All You Need: Refining Your Code from Your Intention]().
+* [InterTrans: Leveraging Transitive Intermediate Translations to Enhance LLM-based Code Translation]().
+* [LLM Assistance for Memory Safety]().
+* [LLM Based Input Space Partitioning Testing for Library APIs]().
+* [LLM-Agents Driven Automated Simulation Testing and Analysis of small Uncrewed Aerial Systems]().
+* [LLM-aided Automatic Modelling for Security Protocol Verification]().
+* [LLMs Meet Library Evolution: Evaluating Deprecated API Usage in LLM-based Code Completion]().
+* [LWDIFF: An LLM-Assisted Differential Testing Framework for WebAssembly Runtimes]().
+* [Large Language Models as Configuration Validators]().
+* [Large Language Models for Safe Minimization]().
+* [Leveraging Large Language Models to Detect npm Malicious Packages]().
+* [LiCoEval: Evaluating LLMs on License Compliance in Code Generation]().
+* [LiSSA: Toward Generic Traceability Link Recovery through Retrieval-Augmented Generation]().
+* [LibreLog: Accurate and Efficient Unsupervised Log Parsing Using Open-Source Large Language Models]().
+* [Metamorphic-Based Many-Objective Distillation of LLMs for Code-related Tasks]().
+* [Model Editing for LLMs4Code: How Far are We?]().
+* [NIODebugger: A Novel Approach to Repair Non-Idempotent-Outcome Tests with LLM-Based Agent]().
+* [Planning a Large Language Model for Static Detection of Runtime Errors in Code Snippets]().
+* [Prompt-to-SQL Injections in LLM-Integrated Web Applications: Risks and Defenses]().
+* [ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation]().
+* [RUG: Turbo LLM for Rust Unit Test Generation]().
+* [Rango: Adaptive Retrieval-Augmented Proving for Automated Software Verification]().
+* [Reasoning Runtime Behavior of a Program with LLM: How Far Are We?]().
+* [RepairAgent: An Autonomous, LLM-Based Agent for Program Repair]().
+* [Revisiting Unnaturalness for Automated Program Repair in the Era of Large Language Models]().
+* [RustAssistant: Using LLMs to Fix Compilation Errors in Rust Code]().
+* [SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents]().
+* [Search-Based LLMs for Code Optimization]().
+* [A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs]().
+* [Aligning the Objective of LLM-based Program Repair]().
+* [An Empirical Study on Automatically Detecting AI-Generated Source Code: How Far Are We?]().
+* [An Empirical Study on Commit Message Generation using LLMs via In-Context Learning]().
+* [An Exploratory Study of ML Sketches and Visual Code Assistants]().
+* [An LLM-Based Agent-Oriented Approach for Automated Code Design Issue Localization]().
+* [Are LLMs Correctly Integrated into Software Systems?]().
+* [Automated Generation of Accessibility Test Reports from Recorded User Transcripts]().
+* [Automating a Complete Software Test Process Using LLMs: An Automotive Case Study]().
+* [BDefects4NN: A Backdoor Defect Database for Controlled Localization Studies in Neural Networks]().
+* [Boosting Static Resource Leak Detection via LLM-based Resource-Oriented Intention Inference]().
+* [COCA: Generative Root Cause Analysis for Distributed Systems with Code Knowledge]().
+* [Can an LLM find its way around a Spreadsheet?]().
+* [ChatGPT Inaccuracy Mitigation during Technical Report Understanding: Are We There Yet?]().
+* [ChatGPT-Based Test Generation for Refactoring Engines Enhanced by Feature Analysis on Examples]().
+* [ClozeMaster: Fuzzing Rust Compiler by Harnessing LLMs for Infilling Masked Real Programs]().
+* [Combining Fine-tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications]().
+* [Context Conquers Parameters: Outperforming Proprietary LLM in Commit Message Generation]().
+* [Decoding Secret Memorization in Code LLMs Through Token-Level Characterization]().
+* [Deep Learning-based Code Reviews: A Paradigm Shift or a Double-Edged Sword?]().
+* [DesignRepair: Dual-Stream Design Guideline-Aware Frontend Repair with Large Language Models]().
+* [Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding]().
+* [Feature-Driven End-To-End Test Generation]().
+* [Fixing Large Language Models' Specification Misunderstanding for Better Code Generation]().
+* [HumanEvo: An Evolution-aware Benchmark for More Realistic Evaluation of Repository-level Code Generation]().
 
 ### 2024
 
