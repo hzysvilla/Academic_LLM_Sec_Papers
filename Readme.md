@@ -139,6 +139,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [Mirage in the Eyes: Hallucination Attack on Multi-modal Large Language Models with Only Attention Sink](https://arxiv.org/pdf/2501.15269)
 * [StruQ: Defending Against Prompt Injection with Structured Queries](https://arxiv.org/pdf/2402.06363)
 * [On the Proactive Generation of Unsafe Images From Text-To-Image Models Using Benign Prompts](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-590-wu-yixin-generation.pdf)
+* [Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents]().
 
 ### 2024
 
