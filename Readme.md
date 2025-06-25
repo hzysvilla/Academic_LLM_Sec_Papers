@@ -18,7 +18,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 |        [IEEE DSN](#dsn)             |             [IEEE INFOCOM](#infocom)              |            [ACM OOPSLA](#oopsla)            |                      |
 |         [SRCS](#others)             |                   [IMC](#imc)                     |              [ISSTA](#issta)                |                      |
 |          [RAID](#raid)              |                   [WWW](#www)                     |             [ACM POPL](#popl)               |                      |
-|          [CAV](#cav)                |                                                   |                                             |                      |
+|          [CAV](#cav)                |                                                   |              [SOSP](#sosp)                  |                      |
 
 ## Listed Journals
 - [TOSEM](#tosem)
@@ -312,6 +312,14 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### 2024
 
 * [Enchanting Program Specification Synthesis by Large Language Models using Static Analysis and Program Verification](https://arxiv.org/abs/2404.00762).
+
+---
+
+## SOSP
+
+### 2024
+
+* [If At First You Don't Suceed, Try, Try, Again ...? Insights and LLM-informed Tooling for Detecting Retry Bugs in Software Systems]([https://arxiv.org/pdf/2212.14834](https://www.microsoft.com/en-us/research/wp-content/uploads/2024/08/SOSP_2024__Detecting_Retry_Bugs_in_Software_Systems-1.pdf)).
 
 ---
 
