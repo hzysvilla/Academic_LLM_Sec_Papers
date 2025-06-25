@@ -56,6 +56,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2025
 
+* [Watermarking Language Models for Many Adaptive Users]().
 * [Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org/pdf/2503.09022)
 * [Supporting Human Raters with the Detection of Harmful Content using Large Language Models](https://arxiv.org/pdf/2406.12800)
 * [BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target](https://www.cs.purdue.edu/homes/an93/static/papers/SP25_Shen.pdf)
