@@ -178,6 +178,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+* [YURASCANNER: Leveraging LLMs for Task-driven Web App Scanning](https://publications.cispa.de/articles/conference_contribution/YuraScanner_Leveraging_LLMs_for_Task-driven_Web_App_Scanning/27993545/1/files/51062570.pdf).
 * [LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors](https://www.ndss-symposium.org/wp-content/uploads/2024-238-paper.pdf)
 * [Analysis of the Effect of the Difference between Japanese and English Input on ChatGPT-Generated Secure Codes](https://www.ndss-symposium.org/wp-content/uploads/madweb2024-84-paper.pdf).
 * [MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots](https://www.ndss-symposium.org/ndss-paper/masterkey-automated-jailbreaking-of-large-language-model-chatbots/).
