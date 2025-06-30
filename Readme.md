@@ -56,7 +56,20 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2025
 
-* [Watermarking Language Models for Many Adaptive Users]().
+* [Watermarking Language Models for Many Adaptive Users](https://arxiv.org/pdf/2405.11109).
+* [Prompt Inversion Attack against Collaborative Inference of Large Language Models]().
+* [On the (In)Security of LLM App Stores](https://arxiv.org/pdf/2407.08422).
+* [On the Effectiveness of Prompt Stealing Attacks on In-The-Wild Prompts](https://cispa.de/en/research/publications/84717-on-the-effectiveness-of-prompt-stealing-attacks-on-in-the-wild-prompts).
+* [The Digital Cybersecurity Expert: How Far Have We Come?]().
+* [SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis]().
+* [PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning]().
+* [Make a Feint to the East While Attacking in the West: Blinding LLM-Based Code Auditors with Flashboom Attacks]().
+* [Fun-tuning: Characterizing the Vulnerability of Proprietary LLMs to Optimization-based Prompt Injection Attacks via the Fine-Tuning Interface]().
+* [DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks]().
+* [Fun-tuning: Characterizing the Vulnerability of Proprietary LLMs to Optimization-based Prompt Injection Attacks via the Fine-Tuning Interface]().
+* [Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity]().
+* [A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms]().
+* [Analyzing Ad Prevalence, Characteristics, and Compliance in Alexa Skills]().
 * [Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org/pdf/2503.09022)
 * [Supporting Human Raters with the Detection of Harmful Content using Large Language Models](https://arxiv.org/pdf/2406.12800)
 * [BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target](https://www.cs.purdue.edu/homes/an93/static/papers/SP25_Shen.pdf)
