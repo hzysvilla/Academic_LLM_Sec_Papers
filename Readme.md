@@ -336,6 +336,15 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ---
 
+## ASPLOS
+
+### 2026
+
+* [Beyond Coverage: Automatic Test Suite Augmentation for Enhanced Effectiveness Using Large Language Models]().
+
+
+---
+
 ## ASE
 
 ### 2024
@@ -382,6 +391,15 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 * [Vulnerability detection with fine-grained interpretations](https://arxiv.org/abs/2106.10478).
 
+
+---
+
+## OOPSLA
+
+### 2026
+
+* [Once4All: Skeleton-Guided SMT Solver Fuzzing with LLM-Synthesized Generators]().
+  
 ---
 
 ## ACL
