@@ -360,6 +360,12 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ---
 
+## FAST
+
+### 2026
+
+* [Sharpen the Spec, Cut the Code: A Case for Generative File System with SySSpec](https://www.usenix.org/system/files/fast26-liu-qingyuan.pdf).
+
 ## ISSTA
 
 ### 2024
